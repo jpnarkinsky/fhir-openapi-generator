@@ -1,0 +1,8 @@
+lint:
+  extends:
+    - recommended
+  rules:
+    no-enum-type-mismatch: 
+      severity: off
+    info-license:
+      severity: off
