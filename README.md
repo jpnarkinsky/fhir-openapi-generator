@@ -1,6 +1,6 @@
 # FHIR OpenApi Generator
 
-This is a node library that converts a FHIR CapabilityStatement into
+This is an (incomplete) node library that converts a FHIR CapabilityStatement into
 OpenAPI definitions. This is useful because once you have an OpenAPI
 file, you can use all the tooling avaialble for OpenAPI for your FHIR
 server.
